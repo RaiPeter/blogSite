@@ -1,0 +1,29 @@
+.galleryPost{
+    display: flex;
+    justify-content: space-between;
+}
+.sideImageWrapper div{
+    width: 100%;
+}
+
+.mainImageWrapper{
+    width: 100%;
+    height: 450px;
+}
+
+.mainImageWrapper img{
+    width: 100%;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.sideImageWrapper div img{
+    max-width: 100%;
+    object-fit: cover;
+    /* max-height: 100%; */
+}
+.HomeContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
