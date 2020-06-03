@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a969ff5a.chunk.css",
+    "main.js": "/static/js/main.f9a978ba.chunk.js",
+    "main.js.map": "/static/js/main.f9a978ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5eeb4e9f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5eeb4e9f.js.map",
+    "static/js/2.cbcf4646.chunk.js": "/static/js/2.cbcf4646.chunk.js",
+    "static/js/2.cbcf4646.chunk.js.map": "/static/js/2.cbcf4646.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5299cf61d865cabb0907394639f40caa.js": "/precache-manifest.5299cf61d865cabb0907394639f40caa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a969ff5a.chunk.css.map": "/static/css/main.a969ff5a.chunk.css.map",
+    "static/js/2.cbcf4646.chunk.js.LICENSE.txt": "/static/js/2.cbcf4646.chunk.js.LICENSE.txt",
+    "static/media/affection-baby-baby-girl-beautiful-377058.jpg": "/static/media/affection-baby-baby-girl-beautiful-377058.80961a00.jpg",
+    "static/media/beautiful-&-simple.jpg": "/static/media/beautiful-&-simple.4218ad92.jpg",
+    "static/media/cestovat-chladny-dno-jednoduchost-2868847.jpg": "/static/media/cestovat-chladny-dno-jednoduchost-2868847.a67df138.jpg",
+    "static/media/fitness-blog-post.jpg": "/static/media/fitness-blog-post.45c60c8a.jpg",
+    "static/media/memories-from.jpg": "/static/media/memories-from.13ad316b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eeb4e9f.js",
+    "static/js/2.cbcf4646.chunk.js",
+    "static/css/main.a969ff5a.chunk.css",
+    "static/js/main.f9a978ba.chunk.js"
+  ]
+}
